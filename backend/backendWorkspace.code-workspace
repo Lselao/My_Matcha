@@ -1,0 +1,31 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "editor.rulers": [80],
+    "editor.insertSpaces": false,
+    "files.autoSave": "off",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "debug.node.autoAttach": "on",
+    "[javascript]": {
+      "editor.formatOnSave": false
+    },
+    "[javascriptreact]": {
+      "editor.formatOnSave": false
+    },
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true
+    },
+    "prettier.disableLanguages": ["javascript", "javascriptreact"],
+    "editor.formatOnType": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "eslint.format.enable": true,
+    "editor.formatOnSave": true
+  }
+}

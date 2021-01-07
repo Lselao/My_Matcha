@@ -1,0 +1,9 @@
+{
+	"jwtSecret": "sl_myJwtSecret",
+	"sqlURI": "154.0.168.251",
+	"sqlCredentials":{
+    "user": "shauneoh_nolin",
+    "password": "123four56",
+	"database": "shauneoh_matcha"
+	}
+}

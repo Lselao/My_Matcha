@@ -1,0 +1,31 @@
+.Profiles {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.ProfileCard {
+  box-shadow: 0 10px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+  margin: 1em;
+  width: 16em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 20px;
+}
+.ProfileCard p {
+  word-wrap: anywhere;
+}
+.ProfileCard img {
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  width: inherit;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  text-decoration: none;
+  color: inherit;
+}
